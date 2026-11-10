@@ -8,11 +8,12 @@ https://tataryn123.github.io/guiyang-travel/
 
 ## 发布
 
-GitHub Pages 使用 main 分支根目录。更新 index.html 后自动发布。
+GitHub Pages 使用 main 分支根目录。更新 index.html 和引用的 photo-*.webp 图片后自动发布。
 
 ## 使用说明
 
-页面适配手机与电脑，景点、美食及伴手礼照片内嵌。地图底图需要联网。
+页面适配手机与电脑，景点、美食及伴手礼照片采用 WebP 压缩，滚动时按需加载。地图底图需要联网。
 天气为页面标注时间的趋势参考，并非实时更新；门票、营业和交通信息请以官方当天公告为准。
 图片与资料来源保留在页面中。
+
 
